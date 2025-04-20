@@ -27,19 +27,23 @@
 - **Görev Sistemi:** Çocuklar tamamladıkları görevler ile "Süper Kaşif" seviyesine ulaşabilir.
 
 - **Macera Günlüğü:** Seyahat boyunca öğrenilenler günlüğe işlenir ve ilerleme izlenir.
+  
 
 ## 🛠️ Proje Yönetimi
 Geliştirme süreci Trello üzerinden takip edilmektedir. Görev dağılımı, ilerleme ve geliştirme güncellemeleri Trello panosunda belgelenmektedir.
 
 📌 Trello Proje Panosuna Git: (https://trello.com/b/hXSW7QRZ/ymgk)
 
-##📄 Dokümantasyon
+
+## 📄 Dokümantasyon
 Proje ile ilgili teknik detaylara, mimariye ve kullanım senaryolarına aşağıdaki bağlantıdan ulaşabilirsiniz:
 
 📁 Proje Dokümantasyonu: https://drive.google.com/drive/folders/1ZLyZ16aSPWTji9k5tgmU4tZxZg99FSD3?usp=sharing
 
-##🌐 Web Sitesi
+
+## 🌐 Web Sitesi
 Proje için hazırlanmış web sayfası üzerinden daha fazla bilgiye ulaşabilirsiniz:
 
-🔗 Proje Web Sitesini Ziyaret Et: YMGK.html
+
+🔗 Proje Web Sitesini Ziyaret Et: file:///E:/Projeler/DunyaKasifiAR/YMGK.html
 
