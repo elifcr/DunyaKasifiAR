@@ -1,24 +1,49 @@
-# Dünya Kaşifi - Artırılmış Gerçeklik Temelli Mobil Uygulama
+# 🌍 Dünya Kaşifi – Artırılmış Gerçeklik Tabanlı Eğitim Uygulaması
 
-Bu proje, çocuklar için eğitici ve eğlenceli bir dünya keşif uygulamasıdır. Artırılmış gerçeklik (AR) teknolojisi kullanarak çocukların farklı ülkeleri keşfetmesini sağlar.
+### Dünya Kaşifi, çocuklara yönelik artırılmış gerçeklik (AR) teknolojisiyle desteklenmiş eğitici ve etkileşimli bir mobil uygulamadır. Bu proje, çocukların coğrafi ve kültürel bilgileri eğlenceli bir şekilde öğrenmelerini hedefler. Uygulama, artırılmış gerçeklik sayesinde çocukları sanal bir dünya turuna çıkarırken, çeşitli mini oyunlar ve görevlerle öğrenme sürecini pekiştirir.
 
-## Özellikler
+📌 Not: Bu proje halen geliştirilmektedir. İçerikler ve işlevler zamanla güncellenmeye devam edecektir.
 
-### 🎮 Ana Özellikler
+## 🚀 Proje Özeti
+### Hedef Kitle: 6–12 yaş arası çocuklar
+
+- **Platform:** Android (mobil artırılmış gerçeklik uygulaması)
+
+- **Amaç:** Çocuklara farklı kültürleri, coğrafi bilgileri ve dilleri öğretmek amacıyla eğlenceli ve öğretici bir AR deneyimi sunmak
+
+## 🧩 Temel Özellikler
+- **Avatar Oluşturma:** Çocuklar kendi karakterlerini saç stili, göz rengi, kıyafet ve aksesuarlarla kişiselleştirebilir.
+
+- **AR Destekli Keşif:** Dünya üzerindeki farklı ülkeler ve şehirler 3D ve AR teknolojisiyle tanıtılır.
+
+- **Mini Oyunlar:** Harita dedektifliği, kültürel eşleştirme, hava durumu tahmini gibi çeşitli eğitici mini oyunlar.
+
+- **Dil Öğrenme:** Temel selamlaşmalar, renkler ve sayılar gibi ifadelerin eğlenceli yollarla öğretilmesi.
+
+- **Ebeveyn Kontrolü:** İçerik filtreleme, süre kısıtlamaları ve ilerleme raporları.
+
+## 🧠 Eğitimsel İçerikler
+- **Kaşif Pasaportu:** Her ülkeden bilgi kartları, dil pulları ve başarı damgaları toplanır.
+
+- **Görev Sistemi:** Çocuklar tamamladıkları görevler ile "Süper Kaşif" seviyesine ulaşabilir.
+
+- **Macera Günlüğü:** Seyahat boyunca öğrenilenler günlüğe işlenir ve ilerleme izlenir.
+
+## 🎮 Ana Özellikler
 - **Karakter Oluşturma**: Çocuklar kendi karakterlerini özelleştirebilir
 - **Ülke Keşfi**: 6 farklı ülke (Türkiye, Fransa, Japonya, Mısır, Brezilya, Avustralya)
 - **Mini Oyunlar**: Matematik yarışması ve diğer eğitici oyunlar
 - **AR Deneyimi**: Artırılmış gerçeklik ile ülke simgelerini görüntüleme
 - **Pasaport Sistemi**: Ziyaret edilen ülkeler ve kazanılan rozetler
 
-### 🛡️ Güvenlik ve Sağlık
+## 🛡️ Güvenlik ve Sağlık
 - **Göz Sağlığı Uyarıları**: Düzenli mola hatırlatıcıları
 - **Ebeveyn Kontrolü**: Zaman sınırları ve içerik kontrolü
 - **Güvenli İçerik**: Yaşa uygun eğitici materyaller
 
-## Teknik Detaylar
+## 🛠️ Teknik Detaylar
 
-### 🛠️ Teknolojiler
+### Teknolojiler
 - **Dil**: Kotlin
 - **Platform**: Android (API 24+)
 - **AR**: Google ARCore + Sceneform
@@ -89,6 +114,25 @@ app/
 2. Feature branch oluşturun
 3. Değişikliklerinizi commit edin
 4. Pull request gönderin
+
+## Proje Videosu:
+
+**https://youtube.com/shorts/JUimHfeTNbE?feature=share**
+
+## 🛠️ Proje Yönetimi
+Geliştirme süreci Trello üzerinden takip edilmektedir. Görev dağılımı, ilerleme ve geliştirme güncellemeleri Trello panosunda belgelenmektedir.
+
+📌 Trello Proje Panosuna Git: (https://trello.com/b/hXSW7QRZ/ymgk)
+
+## 📄 Dokümantasyon
+Proje ile ilgili teknik detaylara, mimariye ve kullanım senaryolarına aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+📁 Proje Dokümantasyonu: https://drive.google.com/drive/folders/1ZLyZ16aSPWTji9k5tgmU4tZxZg99FSD3?usp=sharing
+
+## 🌐 Web Sitesi
+Proje için hazırlanmış web sayfası üzerinden daha fazla bilgiye ulaşabilirsiniz:
+
+**file:///E:/Projeler/DunyaKasifiAR/YMGK.html**
 
 ## Lisans
 
