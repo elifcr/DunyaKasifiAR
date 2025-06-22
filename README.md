@@ -27,6 +27,11 @@
 - **Görev Sistemi:** Çocuklar tamamladıkları görevler ile "Süper Kaşif" seviyesine ulaşabilir.
 
 - **Macera Günlüğü:** Seyahat boyunca öğrenilenler günlüğe işlenir ve ilerleme izlenir.
+
+
+## Proje Videosu:
+
+**https://youtube.com/shorts/JUimHfeTNbE?feature=share**
   
 
 ## 🛠️ Proje Yönetimi
@@ -45,10 +50,7 @@ Proje ile ilgili teknik detaylara, mimariye ve kullanım senaryolarına aşağı
 Proje için hazırlanmış web sayfası üzerinden daha fazla bilgiye ulaşabilirsiniz:
 
 
-🔗 Proje Web Sitesini Ziyaret Et: file:///E:/Projeler/DunyaKasifiAR/YMGK.html
+🔗 Proje Web Sitesini Ziyaret Et: **file:///E:/Projeler/DunyaKasifiAR/YMGK.html**
 
-## Proje Videosu:
-
-**https://youtube.com/shorts/JUimHfeTNbE?feature=share**
 
 
