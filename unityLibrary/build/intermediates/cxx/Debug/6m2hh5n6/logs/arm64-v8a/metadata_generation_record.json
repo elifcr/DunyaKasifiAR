@@ -1,0 +1,492 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1684861848
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\.cxx\\Debug\\6m2hh5n6\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1061130042
+  },
+  {
+    "level_": 0,
+    "message_": "- a file changed",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -740605989
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1222518054
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1775072897
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -498650233
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\include (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1987643075
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\include\\common (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1740776822
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\include\\game-activity (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2114463817
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\include\\game-activity\\native_app_glue (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 803124660
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\include\\game-text-input (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -708112544
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\libs (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -489727439
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\libs\\android.arm64-v8a (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 74567222
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\libs\\android.armeabi-v7a (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1030488500
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\libs\\android.x86 (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -114448248
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity\\libs\\android.x86_64 (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -238568289
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 724466992
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\include (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1295292268
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\include\\common (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -712297299
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\include\\game-activity (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 790682930
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\include\\game-activity\\native_app_glue (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1951762275
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\include\\game-text-input (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1551225335
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\libs (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -999247320
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\libs\\android.arm64-v8a (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1987032685
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\libs\\android.armeabi-v7a (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 663795755
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\libs\\android.x86 (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 418366975
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\ipekc\\.gradle\\caches\\transforms-3\\58f33ab6fd01544f2a4a3a986ae16d6a\\transformed\\games-activity-3.0.5\\prefab\\modules\\game-activity_static\\libs\\android.x86_64 (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1339385912
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\ipekc\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  arm64-v8a ^\n  --os-version ^\n  24 ^\n  --stl ^\n  c++_shared ^\n  --ndk-version ^\n  27 ^\n  --output ^\n  \"C:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging11573296014850074602\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\ipekc\\\\.gradle\\\\caches\\\\transforms-3\\\\58f33ab6fd01544f2a4a3a986ae16d6a\\\\transformed\\\\games-activity-3.0.5\\\\prefab\"\n",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1914636271
+  },
+  {
+    "level_": 0,
+    "message_": "keeping json folder \u0027C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\.cxx\\Debug\\6m2hh5n6\\arm64-v8a\u0027 but regenerating project",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 795897916
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6m2hh5n6\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6m2hh5n6\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\.cxx\\\\Debug\\\\6m2hh5n6\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\.cxx\\\\Debug\\\\6m2hh5n6\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\" ^\n  \"-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\"\n",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 334788978
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6m2hh5n6\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6m2hh5n6\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\.cxx\\\\Debug\\\\6m2hh5n6\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\.cxx\\\\Debug\\\\6m2hh5n6\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\" ^\n  \"-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\"\n",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1977236243
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\.cxx\\Debug\\6m2hh5n6\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2076986526
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2088645242
+  },
+  {
+    "level_": 0,
+    "message_": "deleted unexpected build output C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\build\\intermediates\\cxx\\Debug\\6m2hh5n6\\obj\\arm64-v8a\\libc++_shared.so in incremental regenerate",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -263359763
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -268248970
+  }
+]

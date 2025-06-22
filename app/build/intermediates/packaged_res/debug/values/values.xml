@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#FF9800</color>
+    <color name="background_dark">#303030</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="black">#000000</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="error">#F44336</color>
+    <color name="gray">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="info">#2196F3</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="primary_text">#212121</color>
+    <color name="ripple_color">#80FFFFFF</color>
+    <color name="secondary_text">#757575</color>
+    <color name="success">#4CAF50</color>
+    <color name="surface_dark">#424242</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="warning">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+    <color name="world_blue">#4CAF50</color>
+    <color name="world_green">#8BC34A</color>
+    <color name="world_orange">#FF9800</color>
+    <color name="world_purple">#9C27B0</color>
+    <color name="world_red">#F44336</color>
+    <color name="world_yellow">#FFC107</color>
+    <string name="about">Hakkında</string>
+    <string name="accessory">Aksesuar</string>
+    <string name="app_name">Dünya Kaşifi</string>
+    <string name="ar_experience">AR Deneyimi</string>
+    <string name="ar_exploration">AR Keşif</string>
+    <string name="ar_instruction">Kamerayı etrafınıza doğrultun ve nesneleri yerleştirin</string>
+    <string name="ar_scanning">Yüzey aranıyor...</string>
+    <string name="australia">Avustralya</string>
+    <string name="back">Geri</string>
+    <string name="background_music">Arka Plan Müziği</string>
+    <string name="brazil">Brezilya</string>
+    <string name="character_creation">Karakter Oluştur</string>
+    <string name="clothing">Kıyafet</string>
+    <string name="correct_answer">Doğru Cevap!</string>
+    <string name="create_character">Karakterini Oluştur</string>
+    <string name="culture_game">Kültür Bilgisi</string>
+    <string name="earned_badges">Kazanılan Rozetler</string>
+    <string name="egypt">Mısır</string>
+    <string name="eye_color">Göz Rengi</string>
+    <string name="eye_health_warning">Göz Sağlığı Uyarısı</string>
+    <string name="france">Fransa</string>
+    <string name="hair_style">Saç Stili</string>
+    <string name="info">Bilgi</string>
+    <string name="japan">Japonya</string>
+    <string name="math_game">Matematik Yarışması</string>
+    <string name="my_achievements">Başarılarım</string>
+    <string name="my_passport">Pasaportum</string>
+    <string name="next_question">Sonraki Soru</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="parental_control">Ebeveyn Kontrolü</string>
+    <string name="place_character">Karakter Yerleştir</string>
+    <string name="place_landmark">Anıt Yerleştir</string>
+    <string name="point_camera">Kamerayı nesneye doğrult</string>
+    <string name="save_character">Karakteri Kaydet</string>
+    <string name="settings">Ayarlar</string>
+    <string name="sound_effects">Ses Efektleri</string>
+    <string name="start_adventure">Macera Başlasın</string>
+    <string name="take_break">Mola zamanı! Gözlerini dinlendir.</string>
+    <string name="tap_to_place">Yerleştirmek için dokun</string>
+    <string name="time_limit">Zaman Limiti</string>
+    <string name="try_again">Tekrar Dene</string>
+    <string name="turkey">Türkiye</string>
+    <string name="visited_countries">Ziyaret Edilen Ülkeler</string>
+    <string name="weather_game">Hava Durumu Tahmini</string>
+    <string name="welcome_message">Dünya Kaşifi\'ne Hoş Geldin!</string>
+    <string name="wrong_answer">Yanlış Cevap!</string>
+    <style name="Theme.DunyaKasifi" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/icons</item>
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/icons</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="UnityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

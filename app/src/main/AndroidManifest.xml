@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-feature android:glEsVersion="0x00030000" tools:replace="android:glEsVersion" />
+    <uses-feature android:name="android.hardware.camera.ar" android:required="true" />
+    <uses-feature android:name="android.hardware.microphone" android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DunyaKasifi"
+        tools:replace="android:icon, android:label"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.DunyaKasifi">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.unity3d.player.UnityPlayerActivity"
+            android:theme="@style/UnityTheme"
+            android:screenOrientation="fullSensor"
+            android:launchMode="singleTask"
+            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+            android:hardwareAccelerated="false" />
+
+        <meta-data android:name="unity.splash-mode" android:value="0" />
+        <meta-data android:name="unity.splash-enable" android:value="true" tools:replace="android:value" />
+        <meta-data android:name="unity.launch-fullscreen" android:value="true" tools:replace="android:value" />
+        <meta-data android:name="unity.allow-resizable-window" android:value="false" />
+
+        <activity
+            android:name=".CharacterCreationActivity"
+            android:exported="false"
+            android:theme="@style/Theme.DunyaKasifi" />
+
+        <activity
+            android:name=".CountrySelectionActivity"
+            android:exported="false"
+            android:theme="@style/Theme.DunyaKasifi" />
+
+        <activity
+            android:name=".CountryDetailActivity"
+            android:exported="false"
+            android:theme="@style/Theme.DunyaKasifi" />
+
+        <activity
+            android:name=".GameActivity"
+            android:exported="false"
+            android:theme="@style/Theme.DunyaKasifi" />
+
+        <activity
+            android:name=".PassportActivity"
+            android:exported="false"
+            android:theme="@style/Theme.DunyaKasifi" />
+
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.DunyaKasifi" />
+
+        <activity
+            android:name=".CountryVisitDetailActivity"
+            android:exported="false"
+            android:theme="@style/Theme.DunyaKasifi" />
+
+        <activity
+            android:name=".FlagMatchActivity"
+            android:exported="false"
+            android:theme="@style/Theme.DunyaKasifi" />
+
+        <activity
+            android:name=".MapQuizActivity"
+            android:exported="false"
+            android:theme="@style/Theme.DunyaKasifi" />
+
+    </application>
+
+</manifest> 

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_character_creation.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_character_creation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_game.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_country_detail.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_country_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\item_passport.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\item_passport.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_passport.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_passport.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_country_selection.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_country_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_flag_match.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_flag_match.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_map_quiz.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_map_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\activity_country_visit_detail.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_country_visit_detail.xml"
+    },
+    {
+        "merged": "com.example.dunyakasifi.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.example.dunyakasifi.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-mergeDebugResources-52:\\layout\\item_country.xml",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\item_country.xml"
+    }
+]

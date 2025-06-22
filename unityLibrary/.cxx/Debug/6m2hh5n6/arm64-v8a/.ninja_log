@@ -1,0 +1,11 @@
+# ninja log v5
+41	1470	7723153024416978	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3fce39a69b877cb2
+36	1494	7723153024883022	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bc60e6cb723fabb1
+31	1472	7723153024622556	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	cd9942a66ad0d0d9
+73	1657	7723153026401479	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	624e0b91c10c275a
+57	1652	7723153026431581	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	72db769e12eb45de
+18	1670	7723153026491567	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	28759dee1f93b8a6
+67	1687	7723153026852176	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9961d7e818304a64
+1687	1850	7723153028534429	C:/Users/ipekc/Desktop/guncel-konular-proje/unityLibrary/build/intermediates/cxx/Debug/6m2hh5n6/obj/arm64-v8a/libgame.so	57706c2c89802049
+6	1672	7723153026566682	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c4afd8671f75fb1
+0	26	0	clean	663e9057ff329f57

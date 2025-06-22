@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_flag_turkey.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\flag_turkey.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-xhdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_character_formal.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\character_formal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-xxhdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_vehicle_balloon.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\vehicle_balloon.xml"
+    },
+    {
+        "merged": "com.example.dunyakasifi.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.example.dunyakasifi.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_vehicle_magic_carpet.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\vehicle_magic_carpet.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_item_passport.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\item_passport.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_flag_egypt.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\flag_egypt.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_country_selection.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_country_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_eyes_blue.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\eyes_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_hair_curly.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\hair_curly.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_world_background.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\world_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_hair_long.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\hair_long.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_passport.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_passport.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-mdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_item_country.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\item_country.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_vehicle_plane.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\vehicle_plane.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_eyes_brown.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\eyes_brown.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_country_visit_detail.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_country_visit_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_clothes_adventure.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\clothes_adventure.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_equipment_camera.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\equipment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_ic_passport.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\ic_passport.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_accessory_glasses.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\accessory_glasses.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_clothes_formal.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\clothes_formal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_equipment_notebook.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\equipment_notebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_kadin_kahverengi.png.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\kadin_kahverengi.png"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_ic_character.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\ic_character.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_erkek_sari.png.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\erkek_sari.png"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_character_adventure.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\character_adventure.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_flag_brazil.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\flag_brazil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_character_preview_bg.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\character_preview_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_country_detail.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_country_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_equipment_binoculars.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\equipment_binoculars.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_character_casual.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\character_casual.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_flag_australia.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\flag_australia.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_ic_adventure.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\ic_adventure.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_flag_japan.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\flag_japan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_vehicle_rocket.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\vehicle_rocket.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_eyes_green.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\eyes_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_accessory_hat.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\accessory_hat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_accessory_backpack.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\accessory_backpack.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_map_quiz.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_map_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_head.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\head.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_flag_france.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\flag_france.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_erkek_kahverengi.png.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\erkek_kahverengi.png"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_ic_game.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\ic_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_erkek_kahverengi_gozluk.png.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\erkek_kahverengi_gozluk.png"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_character_creation.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_character_creation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-hdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_hair_short.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\hair_short.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_clothes_casual.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\clothes_casual.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_erkek_sari_gozluk.png.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\erkek_sari_gozluk.png"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\layout_activity_flag_match.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\layout\\activity_flag_match.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_kadin_kahverengi_gozluk.png.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\kadin_kahverengi_gozluk.png"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_kadin_sari_gozluk.png.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\kadin_sari_gozluk.png"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_equipment_compass.xml.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\equipment_compass.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-merged_res-53:\\drawable_kadin_sari_sac.png.flat",
+        "source": "C:\\Users\\ipekc\\.gradle\\daemon\\8.0\\com.example.dunyakasifi.app-main-55:\\drawable\\kadin_sari_sac.png"
+    }
+]

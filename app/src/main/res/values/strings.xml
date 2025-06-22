@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Dünya Kaşifi</string>
+    
+    <!-- Main Menu -->
+    <string name="welcome_message">Dünya Kaşifi\'ne Hoş Geldin!</string>
+    <string name="start_adventure">Macera Başlasın</string>
+    <string name="character_creation">Karakter Oluştur</string>
+    <string name="my_passport">Pasaportum</string>
+    <string name="settings">Ayarlar</string>
+    
+    <!-- Character Creation -->
+    <string name="create_character">Karakterini Oluştur</string>
+    <string name="eye_color">Göz Rengi</string>
+    <string name="hair_style">Saç Stili</string>
+    <string name="clothing">Kıyafet</string>
+    <string name="accessory">Aksesuar</string>
+    <string name="save_character">Karakteri Kaydet</string>
+    
+    <!-- Countries -->
+    <string name="turkey">Türkiye</string>
+    <string name="france">Fransa</string>
+    <string name="japan">Japonya</string>
+    <string name="egypt">Mısır</string>
+    <string name="brazil">Brezilya</string>
+    <string name="australia">Avustralya</string>
+    
+    <!-- Game -->
+    <string name="math_game">Matematik Yarışması</string>
+    <string name="weather_game">Hava Durumu Tahmini</string>
+    <string name="culture_game">Kültür Bilgisi</string>
+    <string name="correct_answer">Doğru Cevap!</string>
+    <string name="wrong_answer">Yanlış Cevap!</string>
+    <string name="try_again">Tekrar Dene</string>
+    <string name="next_question">Sonraki Soru</string>
+    
+    <!-- AR -->
+    <string name="ar_experience">AR Deneyimi</string>
+    <string name="ar_exploration">AR Keşif</string>
+    <string name="point_camera">Kamerayı nesneye doğrult</string>
+    <string name="tap_to_place">Yerleştirmek için dokun</string>
+    <string name="ar_instruction">Kamerayı etrafınıza doğrultun ve nesneleri yerleştirin</string>
+    <string name="ar_scanning">Yüzey aranıyor...</string>
+    <string name="place_landmark">Anıt Yerleştir</string>
+    <string name="place_character">Karakter Yerleştir</string>
+    <string name="back">Geri</string>
+    <string name="info">Bilgi</string>
+    
+    <!-- Safety -->
+    <string name="eye_health_warning">Göz Sağlığı Uyarısı</string>
+    <string name="take_break">Mola zamanı! Gözlerini dinlendir.</string>
+    <string name="parental_control">Ebeveyn Kontrolü</string>
+    <string name="time_limit">Zaman Limiti</string>
+    
+    <!-- Passport -->
+    <string name="my_achievements">Başarılarım</string>
+    <string name="visited_countries">Ziyaret Edilen Ülkeler</string>
+    <string name="earned_badges">Kazanılan Rozetler</string>
+    
+    <!-- Settings -->
+    <string name="sound_effects">Ses Efektleri</string>
+    <string name="background_music">Arka Plan Müziği</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="about">Hakkında</string>
+</resources> 

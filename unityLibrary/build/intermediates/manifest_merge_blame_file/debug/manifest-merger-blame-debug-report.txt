@@ -1,0 +1,188 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="24" />
+6-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml
+7
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+8-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:4:3-63
+9-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:4:20-60
+10
+11    <uses-feature android:glEsVersion="0x00030000" />
+11-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:5:3-52
+11-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:5:17-49
+12    <uses-feature
+12-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:6:3-91
+13        android:name="android.hardware.vulkan.version"
+13-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:6:17-63
+14        android:required="false" />
+14-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:6:64-88
+15    <uses-feature
+15-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:7:3-83
+16        android:name="android.hardware.camera"
+16-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:7:17-55
+17        android:required="false" />
+17-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:7:56-80
+18    <uses-feature
+18-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:8:3-93
+19        android:name="android.hardware.camera.autofocus"
+19-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:8:17-65
+20        android:required="false" />
+20-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:8:66-90
+21    <uses-feature
+21-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:9:3-89
+22        android:name="android.hardware.camera.front"
+22-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:9:17-61
+23        android:required="false" />
+23-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:9:62-86
+24    <uses-feature
+24-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:10:3-88
+25        android:name="android.hardware.touchscreen"
+25-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:10:17-60
+26        android:required="false" />
+26-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:10:61-85
+27    <uses-feature
+27-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:11:3-99
+28        android:name="android.hardware.touchscreen.multitouch"
+28-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:11:17-71
+29        android:required="false" />
+29-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:11:72-96
+30    <uses-feature
+30-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:12:3-108
+31        android:name="android.hardware.touchscreen.multitouch.distinct"
+31-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:12:17-80
+32        android:required="false" />
+32-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:12:81-105
+33
+34    <application
+34-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:13:3-34:17
+35        android:enableOnBackInvokedCallback="true"
+35-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:13:16-58
+36        android:extractNativeLibs="true" >
+36-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:13:59-91
+37        <meta-data
+37-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:14:5-69
+38            android:name="unity.splash-mode"
+38-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:14:16-48
+39            android:value="0" />
+39-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:14:49-66
+40        <meta-data
+40-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:15:5-74
+41            android:name="unity.splash-enable"
+41-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:15:16-50
+42            android:value="True" />
+42-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:15:51-71
+43        <meta-data
+43-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:16:5-78
+44            android:name="unity.launch-fullscreen"
+44-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:16:16-54
+45            android:value="True" />
+45-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:16:55-75
+46        <meta-data
+46-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:17:5-84
+47            android:name="unity.render-outside-safearea"
+47-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:17:16-60
+48            android:value="True" />
+48-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:17:61-81
+49        <meta-data
+49-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:18:5-81
+50            android:name="notch.config"
+50-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:18:16-43
+51            android:value="portrait|landscape" />
+51-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:18:44-78
+52        <meta-data
+52-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:19:5-84
+53            android:name="unity.auto-report-fully-drawn"
+53-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:19:16-60
+54            android:value="true" />
+54-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:19:61-81
+55        <meta-data
+55-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:20:5-80
+56            android:name="unity.auto-set-game-state"
+56-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:20:16-56
+57            android:value="true" />
+57-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:20:57-77
+58        <meta-data
+58-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:21:5-78
+59            android:name="unity.strip-engine-code"
+59-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:21:16-54
+60            android:value="true" />
+60-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:21:55-75
+61
+62        <activity
+62-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:5-32:16
+63            android:name="com.unity3d.player.UnityPlayerGameActivity"
+63-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:312-369
+64            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+64-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:15-196
+65            android:enabled="true"
+65-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:197-219
+66            android:exported="true"
+66-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:220-243
+67            android:hardwareAccelerated="false"
+67-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:244-279
+68            android:launchMode="singleTask"
+68-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:280-311
+69            android:resizeableActivity="true"
+69-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:370-403
+70            android:screenOrientation="fullUser"
+70-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:404-440
+71            android:theme="@style/BaseUnityGameActivityTheme" >
+71-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:22:441-490
+72            <intent-filter>
+72-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:23:7-26:23
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:24:9-69
+73-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:24:19-66
+74
+75                <action android:name="android.intent.action.MAIN" />
+75-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:25:9-61
+75-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:25:17-58
+76            </intent-filter>
+77
+78            <meta-data
+78-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:27:7-82
+79                android:name="unityplayer.UnityActivity"
+79-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:27:18-58
+80                android:value="true" />
+80-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:27:59-79
+81            <meta-data
+81-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:28:7-78
+82                android:name="android.app.lib_name"
+82-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:28:18-53
+83                android:value="unity" />
+83-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:28:54-75
+84            <meta-data
+84-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:29:7-130
+85                android:name="WindowManagerPreference:FreeformWindowSize"
+85-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:29:18-75
+86                android:value="@string/FreeformWindowSize_maximize" />
+86-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:29:76-127
+87            <meta-data
+87-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:30:7-145
+88                android:name="WindowManagerPreference:FreeformWindowOrientation"
+88-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:30:18-82
+89                android:value="@string/FreeformWindowOrientation_landscape" />
+89-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:30:83-142
+90            <meta-data
+90-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:31:7-70
+91                android:name="notch_support"
+91-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:31:18-46
+92                android:value="true" />
+92-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:31:47-67
+93        </activity>
+94
+95        <meta-data
+95-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:33:5-77
+96            android:name="com.google.ar.core"
+96-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:33:16-49
+97            android:value="optional" />
+97-->C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\src\main\AndroidManifest.xml:33:50-74
+98    </application>
+99
+100</manifest>

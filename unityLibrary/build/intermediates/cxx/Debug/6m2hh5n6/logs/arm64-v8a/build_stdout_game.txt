@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\.cxx\Debug\6m2hh5n6\arm64-v8a'
+ninja: no work to do.

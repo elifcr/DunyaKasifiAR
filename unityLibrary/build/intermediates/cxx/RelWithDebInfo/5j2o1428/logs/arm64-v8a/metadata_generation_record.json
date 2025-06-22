@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 226108828
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\.cxx\\RelWithDebInfo\\5j2o1428\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 818358572
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1255063554
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\ipekc\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  arm64-v8a ^\n  --os-version ^\n  24 ^\n  --stl ^\n  c++_shared ^\n  --ndk-version ^\n  27 ^\n  --output ^\n  \"C:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging12014555796046225899\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\ipekc\\\\.gradle\\\\caches\\\\transforms-3\\\\58f33ab6fd01544f2a4a3a986ae16d6a\\\\transformed\\\\games-activity-3.0.5\\\\prefab\"\n",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1990956724
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\.cxx\\RelWithDebInfo\\5j2o1428\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1672740990
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\.cxx\\RelWithDebInfo\\5j2o1428\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 634062730
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\5j2o1428\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\5j2o1428\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\.cxx\\\\RelWithDebInfo\\\\5j2o1428\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\.cxx\\\\RelWithDebInfo\\\\5j2o1428\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\" ^\n  \"-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\"\n",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1667625901
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\6000.0.47f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\ipekc\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\5j2o1428\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\5j2o1428\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\.cxx\\\\RelWithDebInfo\\\\5j2o1428\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BC:\\\\Users\\\\ipekc\\\\Desktop\\\\guncel-konular-proje\\\\unityLibrary\\\\.cxx\\\\RelWithDebInfo\\\\5j2o1428\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\" ^\n  \"-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\"\n",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 395699116
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\.cxx\\RelWithDebInfo\\5j2o1428\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1868816800
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 629892222
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\.cxx\\RelWithDebInfo\\5j2o1428\\arm64-v8a\\compile_commands.json to C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\.cxx\\tools\\release\\arm64-v8a\\compile_commands.json",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1384429231
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\ipekc\\Desktop\\guncel-konular-proje\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1727001990
+  }
+]

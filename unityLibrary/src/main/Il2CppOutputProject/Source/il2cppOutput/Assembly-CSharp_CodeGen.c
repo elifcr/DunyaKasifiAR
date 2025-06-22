@@ -1,0 +1,75 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void GameManager_Awake_m4B6E8E2AF58C95C9A2A0C4637A34AE0892CB637F (void);
+extern void GameManager__ctor_mF453CED520617BFB65C52405A964E06CF17DB368 (void);
+extern void SpriteRotator_RotateLeft_m2741028F128CD309E001DC8E9D80016BD261CEEF (void);
+extern void SpriteRotator_RotateRight_m1138C0B59A9ADB757827BDB441DED7620102142F (void);
+extern void SpriteRotator__ctor_mFF5FA8B295A8521AC6429EC85E69EE957837752D (void);
+extern void StartGame_LoadAvatarScene_m1E8220BE975B7A8B7DB40E4F0AD670379F2B3566 (void);
+extern void StartGame__ctor_mCE51A8179D9D10D4F741CDAB63ED2DA16C00B797 (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4 (void);
+extern void VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[13] = 
+{
+	GameManager_Awake_m4B6E8E2AF58C95C9A2A0C4637A34AE0892CB637F,
+	GameManager__ctor_mF453CED520617BFB65C52405A964E06CF17DB368,
+	SpriteRotator_RotateLeft_m2741028F128CD309E001DC8E9D80016BD261CEEF,
+	SpriteRotator_RotateRight_m1138C0B59A9ADB757827BDB441DED7620102142F,
+	SpriteRotator__ctor_mFF5FA8B295A8521AC6429EC85E69EE957837752D,
+	StartGame_LoadAvatarScene_m1E8220BE975B7A8B7DB40E4F0AD670379F2B3566,
+	StartGame__ctor_mCE51A8179D9D10D4F741CDAB63ED2DA16C00B797,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4,
+	VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[13] = 
+{
+	14539,
+	14539,
+	14539,
+	14539,
+	14539,
+	14539,
+	14539,
+	14539,
+	14539,
+	24637,
+	14539,
+	24755,
+	14539,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	13,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

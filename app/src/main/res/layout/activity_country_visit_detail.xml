@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/background_light">
+
+    <ImageView
+        android:id="@+id/countryFlag"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/countryName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ülke Adı"
+        android:textAlignment="center"
+        android:textColor="@color/primary"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/visitDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ziyaret Tarihi: 01.01.2024"
+        android:textAlignment="center"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/countryInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ülke hakkında kısa bilgi burada yer alacak."
+        android:textAlignment="center"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp" />
+
+</LinearLayout> 

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF9800</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    
+    <!-- App specific colors -->
+    <color name="world_blue">#4CAF50</color>
+    <color name="world_green">#8BC34A</color>
+    <color name="world_yellow">#FFC107</color>
+    <color name="world_orange">#FF9800</color>
+    <color name="world_red">#F44336</color>
+    <color name="world_purple">#9C27B0</color>
+    
+    <!-- Background colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#303030</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#424242</color>
+    
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+    
+    <!-- Layout specific colors -->
+    <color name="primary_color">#2196F3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="ripple_color">#80FFFFFF</color>
+</resources> 

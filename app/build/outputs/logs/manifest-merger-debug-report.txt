@@ -1,0 +1,767 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\ipekc\.gradle\caches\transforms-3\c724dfb3f52fa33305107c14be4e4c49\transformed\viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\de7f2af9a7d2f6ca921057cd16bffd1b\transformed\navigation-common-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\2e9ca77c12e2e7a3c9c8c5fa695babed\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\b5d3b33404660d5995f134685bd3e49b\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\99fc93360e8dfc0eddd80fcbfc1cf019\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\c17fdb8dc2c72ac0d46b968d135feaf1\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\04d1c5fae5e00fdfe5941b97abafd10c\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\1f44f3a680acab8a33d887ff898f639f\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\3408b1d52c0484a892c0b7f4505e0034\transformed\navigation-ui-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\ipekc\.gradle\caches\transforms-3\62ebc3dbab22f6b31e9b924f8878f015\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-100:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ipekc\.gradle\caches\transforms-3\426e29c2454daa1353b04768867bf157\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\00aa4d24236dc93e390065c2ee732614\transformed\lottie-6.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\b0cf4b76040052a026e17b5a38ef2068\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\13aaadb979dca056175cab265896d31a\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\7cefcc35d4ce7225666fb201d59ae771\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\bb0af67c2c7f3ee092795a2f4aaef0c5\transformed\glide-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\0d1fd85016aa1e0f1ae231ad50e5c6df\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\5d8ef775ee2ce25f2b8a9c80caf7f89a\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\fb92e6dd959876e1eefa4381e3972ce4\transformed\fragment-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\a65b1f17b3ee8cb9817311e44e5341cc\transformed\activity-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\1659d8c0d3076baccd8c152e47a6f784\transformed\activity-ktx-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ipekc\.gradle\caches\transforms-3\a16c269c4ef3271182af4725c19766e7\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ipekc\.gradle\caches\transforms-3\8f32960ebee82100a0a972807d4de266\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\ea5a6e35570b868b0e9a6bd750da649b\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\ca99fdc75553607726a60dfc8b2d0b99\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\77cdb6f125873ab436efdcfa86fe6a86\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\6cdeb0d7c58d0e9cc0428f44d9e6026e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\0a6c349b596a14a8fa9276d487633a77\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\38cee1fca628218d6656a694f36c52b9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\d8859f09f91e577897ca45530f89774a\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\f2e2bfa9d3c5f71c8cfe23c726ad5af6\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\9f2ef42fd805e0c97774021f48f926be\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\69e0da89b56475c0c9eee93ac9d91bae\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\e84d11cccece790a509808dcd1f8a3a2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\4b473eb19f4bcaae48ffaecf222e625b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\68e88e22ab09cade2e4c2038ff5e0541\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\1280fff3ed1643773f7acf307a17010b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\330ddec7d2d2f47f448fe171e4eebec0\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\f6865938be93fb9643786f82fd41e0ab\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\560b488bd24c4f9f689fcea53c07c742\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\c3897fc6eef17f45d3f3c5e96b6373d5\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\ipekc\.gradle\caches\transforms-3\04bd33434fe79bedcee42b212a00ceab\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\bd8114c3853da524092c1b3d1d9e270d\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\8ae57469b75c1c219bb48f95aa205ba5\transformed\lifecycle-livedata-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\951f4301b3d00aaef1b681cd5df7fb70\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\5c80c10e7dd3122cd0b563c53f324125\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\12dd9d17acaa718846bf9176c435a567\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\e53516ef2c4005e675ed663e9c8e4fad\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\ipekc\.gradle\caches\transforms-3\1287406ab135cd87d3bd02bdd800c828\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\1289b9096fd114eda67d742983e616ed\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\29e8b4fc9ad4afb5fbebb63dd361a18b\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:8:1-40:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\a5eec4af265898ae0a2f7ca2cf472afc\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\183d2f3df2c460f90dde4723b0da265b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\d197da2fe7639e2f855750086f81d701\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\d5cc7b802d3620c3d7e74bbd287e29f1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\454aa3e2cbb8011d767385e19d2941fa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\85855fdfe6027658970c4e5516e4352f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\cc3133bcc52a3d03bde07191f314e6a7\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:2:1-36:12
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.games:games-activity:3.0.5] C:\Users\ipekc\.gradle\caches\transforms-3\58f33ab6fd01544f2a4a3a986ae16d6a\transformed\games-activity-3.0.5\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-67
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-67
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:22:5-67
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-65
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-65
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:10:5-65
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:7:22-74
+uses-feature#0x00030000
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:8:5-90
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-54
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-54
+	android:glEsVersion
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:8:19-51
+		REJECTED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:19-51
+	tools:replace
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:8:52-87
+uses-feature#android.hardware.camera.ar
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:9:5-87
+	android:required
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:9:61-84
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:9:19-60
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:10:5-89
+	android:required
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:10:62-86
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:10:19-61
+application
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:12:5-90:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\ipekc\.gradle\caches\transforms-3\62ebc3dbab22f6b31e9b924f8878f015\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\ipekc\.gradle\caches\transforms-3\62ebc3dbab22f6b31e9b924f8878f015\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:5-98:19
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:5-98:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ipekc\.gradle\caches\transforms-3\426e29c2454daa1353b04768867bf157\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ipekc\.gradle\caches\transforms-3\426e29c2454daa1353b04768867bf157\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\00aa4d24236dc93e390065c2ee732614\transformed\lottie-6.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\00aa4d24236dc93e390065c2ee732614\transformed\lottie-6.1.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\bb0af67c2c7f3ee092795a2f4aaef0c5\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\bb0af67c2c7f3ee092795a2f4aaef0c5\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\e53516ef2c4005e675ed663e9c8e4fad\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\e53516ef2c4005e675ed663e9c8e4fad\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\1289b9096fd114eda67d742983e616ed\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\1289b9096fd114eda67d742983e616ed\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:24:5-38:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\183d2f3df2c460f90dde4723b0da265b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\183d2f3df2c460f90dde4723b0da265b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:24:5-34:19
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:24:5-34:19
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:19
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:9-41
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:17:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:21:9-29
+	android:icon
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:16:9-38
+	android:allowBackup
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:13:9-35
+	android:enableOnBackInvokedCallback
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-51
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:19:9-49
+	android:dataExtractionRules
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:14:9-65
+	tools:replace
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:20:9-52
+activity#com.example.dunyakasifi.MainActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:26:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:33:9-38:51
+	android:screenOrientation
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:35:13-51
+	android:launchMode
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:36:13-44
+	android:hardwareAccelerated
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:38:13-48
+	android:configChanges
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:37:13-194
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:33:19-72
+meta-data#unity.splash-mode
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:40:9-73
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:33
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:40:53-70
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:40:20-52
+meta-data#unity.splash-enable
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:41:9-108
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:36
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:36
+	tools:replace
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:41:76-105
+	android:value
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:41:55-75
+		REJECTED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-33
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:41:20-54
+meta-data#unity.launch-fullscreen
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:42:9-112
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-45:36
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-45:36
+	tools:replace
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:42:80-109
+	android:value
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:42:59-79
+		REJECTED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-33
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:42:20-58
+meta-data#unity.allow-resizable-window
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:43:9-88
+	android:value
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:43:64-85
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:43:20-63
+activity#com.example.dunyakasifi.CharacterCreationActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:45:9-48:56
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:47:13-37
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:48:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:46:13-54
+activity#com.example.dunyakasifi.CountrySelectionActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:50:9-53:56
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:52:13-37
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:53:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:51:13-53
+activity#com.example.dunyakasifi.CountryDetailActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:55:9-58:56
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:57:13-37
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:58:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:56:13-50
+activity#com.example.dunyakasifi.GameActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:60:9-63:56
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:62:13-37
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:63:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:61:13-41
+activity#com.example.dunyakasifi.PassportActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:65:9-68:56
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:67:13-37
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:68:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:66:13-45
+activity#com.example.dunyakasifi.SettingsActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:70:9-73:56
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:72:13-37
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:73:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:71:13-45
+activity#com.example.dunyakasifi.CountryVisitDetailActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:75:9-78:56
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:77:13-37
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:78:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:76:13-55
+activity#com.example.dunyakasifi.FlagMatchActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:80:9-83:56
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:82:13-37
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:83:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:81:13-46
+activity#com.example.dunyakasifi.MapQuizActivity
+ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:85:9-88:56
+	android:exported
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:87:13-37
+	android:theme
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:88:13-53
+	android:name
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:86:13-44
+uses-sdk
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\ipekc\.gradle\caches\transforms-3\c724dfb3f52fa33305107c14be4e4c49\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\ipekc\.gradle\caches\transforms-3\c724dfb3f52fa33305107c14be4e4c49\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\de7f2af9a7d2f6ca921057cd16bffd1b\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\de7f2af9a7d2f6ca921057cd16bffd1b\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\2e9ca77c12e2e7a3c9c8c5fa695babed\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\2e9ca77c12e2e7a3c9c8c5fa695babed\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\b5d3b33404660d5995f134685bd3e49b\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\b5d3b33404660d5995f134685bd3e49b\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\99fc93360e8dfc0eddd80fcbfc1cf019\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\99fc93360e8dfc0eddd80fcbfc1cf019\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\c17fdb8dc2c72ac0d46b968d135feaf1\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\c17fdb8dc2c72ac0d46b968d135feaf1\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\04d1c5fae5e00fdfe5941b97abafd10c\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\04d1c5fae5e00fdfe5941b97abafd10c\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\1f44f3a680acab8a33d887ff898f639f\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\1f44f3a680acab8a33d887ff898f639f\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\3408b1d52c0484a892c0b7f4505e0034\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\3408b1d52c0484a892c0b7f4505e0034\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\ipekc\.gradle\caches\transforms-3\62ebc3dbab22f6b31e9b924f8878f015\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\ipekc\.gradle\caches\transforms-3\62ebc3dbab22f6b31e9b924f8878f015\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ipekc\.gradle\caches\transforms-3\426e29c2454daa1353b04768867bf157\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ipekc\.gradle\caches\transforms-3\426e29c2454daa1353b04768867bf157\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\00aa4d24236dc93e390065c2ee732614\transformed\lottie-6.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\00aa4d24236dc93e390065c2ee732614\transformed\lottie-6.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\b0cf4b76040052a026e17b5a38ef2068\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\b0cf4b76040052a026e17b5a38ef2068\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\13aaadb979dca056175cab265896d31a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\13aaadb979dca056175cab265896d31a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\7cefcc35d4ce7225666fb201d59ae771\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\7cefcc35d4ce7225666fb201d59ae771\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\bb0af67c2c7f3ee092795a2f4aaef0c5\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\bb0af67c2c7f3ee092795a2f4aaef0c5\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\0d1fd85016aa1e0f1ae231ad50e5c6df\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\0d1fd85016aa1e0f1ae231ad50e5c6df\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\5d8ef775ee2ce25f2b8a9c80caf7f89a\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\5d8ef775ee2ce25f2b8a9c80caf7f89a\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\fb92e6dd959876e1eefa4381e3972ce4\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\ipekc\.gradle\caches\transforms-3\fb92e6dd959876e1eefa4381e3972ce4\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\a65b1f17b3ee8cb9817311e44e5341cc\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\a65b1f17b3ee8cb9817311e44e5341cc\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\1659d8c0d3076baccd8c152e47a6f784\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\1659d8c0d3076baccd8c152e47a6f784\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ipekc\.gradle\caches\transforms-3\a16c269c4ef3271182af4725c19766e7\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ipekc\.gradle\caches\transforms-3\a16c269c4ef3271182af4725c19766e7\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ipekc\.gradle\caches\transforms-3\8f32960ebee82100a0a972807d4de266\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ipekc\.gradle\caches\transforms-3\8f32960ebee82100a0a972807d4de266\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\ea5a6e35570b868b0e9a6bd750da649b\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\ea5a6e35570b868b0e9a6bd750da649b\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\ca99fdc75553607726a60dfc8b2d0b99\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\ca99fdc75553607726a60dfc8b2d0b99\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\77cdb6f125873ab436efdcfa86fe6a86\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\77cdb6f125873ab436efdcfa86fe6a86\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\6cdeb0d7c58d0e9cc0428f44d9e6026e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\6cdeb0d7c58d0e9cc0428f44d9e6026e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\0a6c349b596a14a8fa9276d487633a77\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\0a6c349b596a14a8fa9276d487633a77\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\38cee1fca628218d6656a694f36c52b9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\38cee1fca628218d6656a694f36c52b9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\d8859f09f91e577897ca45530f89774a\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\d8859f09f91e577897ca45530f89774a\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\f2e2bfa9d3c5f71c8cfe23c726ad5af6\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\f2e2bfa9d3c5f71c8cfe23c726ad5af6\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\9f2ef42fd805e0c97774021f48f926be\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\9f2ef42fd805e0c97774021f48f926be\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\69e0da89b56475c0c9eee93ac9d91bae\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\69e0da89b56475c0c9eee93ac9d91bae\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\e84d11cccece790a509808dcd1f8a3a2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\e84d11cccece790a509808dcd1f8a3a2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\4b473eb19f4bcaae48ffaecf222e625b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\4b473eb19f4bcaae48ffaecf222e625b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\68e88e22ab09cade2e4c2038ff5e0541\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\68e88e22ab09cade2e4c2038ff5e0541\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\1280fff3ed1643773f7acf307a17010b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\1280fff3ed1643773f7acf307a17010b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\330ddec7d2d2f47f448fe171e4eebec0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\330ddec7d2d2f47f448fe171e4eebec0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\f6865938be93fb9643786f82fd41e0ab\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\f6865938be93fb9643786f82fd41e0ab\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\560b488bd24c4f9f689fcea53c07c742\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\560b488bd24c4f9f689fcea53c07c742\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\c3897fc6eef17f45d3f3c5e96b6373d5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ipekc\.gradle\caches\transforms-3\c3897fc6eef17f45d3f3c5e96b6373d5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\ipekc\.gradle\caches\transforms-3\04bd33434fe79bedcee42b212a00ceab\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\ipekc\.gradle\caches\transforms-3\04bd33434fe79bedcee42b212a00ceab\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\bd8114c3853da524092c1b3d1d9e270d\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\bd8114c3853da524092c1b3d1d9e270d\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\8ae57469b75c1c219bb48f95aa205ba5\transformed\lifecycle-livedata-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\8ae57469b75c1c219bb48f95aa205ba5\transformed\lifecycle-livedata-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\951f4301b3d00aaef1b681cd5df7fb70\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\951f4301b3d00aaef1b681cd5df7fb70\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\5c80c10e7dd3122cd0b563c53f324125\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\5c80c10e7dd3122cd0b563c53f324125\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\12dd9d17acaa718846bf9176c435a567\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\12dd9d17acaa718846bf9176c435a567\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\e53516ef2c4005e675ed663e9c8e4fad\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\ipekc\.gradle\caches\transforms-3\e53516ef2c4005e675ed663e9c8e4fad\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\ipekc\.gradle\caches\transforms-3\1287406ab135cd87d3bd02bdd800c828\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\ipekc\.gradle\caches\transforms-3\1287406ab135cd87d3bd02bdd800c828\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\1289b9096fd114eda67d742983e616ed\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\1289b9096fd114eda67d742983e616ed\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\29e8b4fc9ad4afb5fbebb63dd361a18b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\29e8b4fc9ad4afb5fbebb63dd361a18b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\a5eec4af265898ae0a2f7ca2cf472afc\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\a5eec4af265898ae0a2f7ca2cf472afc\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\183d2f3df2c460f90dde4723b0da265b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\183d2f3df2c460f90dde4723b0da265b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\d197da2fe7639e2f855750086f81d701\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\d197da2fe7639e2f855750086f81d701\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\d5cc7b802d3620c3d7e74bbd287e29f1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\d5cc7b802d3620c3d7e74bbd287e29f1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\454aa3e2cbb8011d767385e19d2941fa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\454aa3e2cbb8011d767385e19d2941fa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\85855fdfe6027658970c4e5516e4352f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\85855fdfe6027658970c4e5516e4352f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\cc3133bcc52a3d03bde07191f314e6a7\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\cc3133bcc52a3d03bde07191f314e6a7\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:5:5-44
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:5:5-44
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.games:games-activity:3.0.5] C:\Users\ipekc\.gradle\caches\transforms-3\58f33ab6fd01544f2a4a3a986ae16d6a\transformed\games-activity-3.0.5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.games:games-activity:3.0.5] C:\Users\ipekc\.gradle\caches\transforms-3\58f33ab6fd01544f2a4a3a986ae16d6a\transformed\games-activity-3.0.5\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-55
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-17:36
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:7:5-60
+MERGED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:7:5-60
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-33
+		MERGED from C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:15:60-84
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-72
+meta-data#unity.render-outside-safearea
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:9-48:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-57
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:9-51:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:9-54:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-57
+meta-data#unity.auto-set-game-state
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:9-57:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:13-53
+meta-data#unity.strip-engine-code
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:9-60:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:13-51
+activity#com.unity3d.player.UnityPlayerGameActivity
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:9-93:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-79
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-79
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:70:13-49
+	android:enabled
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:13-35
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:13-48
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:69:13-46
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:71:13-62
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:13-70
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:78:13-80:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:80:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:79:17-57
+meta-data#android.app.lib_name
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:81:13-83:41
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:83:17-38
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:82:17-52
+meta-data#WindowManagerPreference:FreeformWindowSize
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:84:13-86:71
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:86:17-68
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:85:17-74
+meta-data#WindowManagerPreference:FreeformWindowOrientation
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:87:13-89:79
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:89:17-76
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:88:17-81
+meta-data#notch_support
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:90:13-92:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:92:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:91:17-45
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:95:9-97:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:97:13-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:96:13-46
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\1289b9096fd114eda67d742983e616ed\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ipekc\.gradle\caches\transforms-3\1289b9096fd114eda67d742983e616ed\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.dunyakasifi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.dunyakasifi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+queries
+ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:20:5-22:15
+package#com.google.ar.core
+ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:21:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:27:9-29:41
+	android:value
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:29:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:28:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:32:13-62
+uses-permission#android.permission.HIGH_SAMPLING_RATE_SENSORS
+ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:16:5-85
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:16:22-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:19:22-76
+provider#com.vuforia.engine.app.VuforiaContentProvider
+ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:27:13-65
+	android:exported
+		ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:26:13-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:30:13-32:53
+	android:resource
+		ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:32:17-50
+	android:name
+		ADDED from [:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:31:17-67

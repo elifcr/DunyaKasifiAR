@@ -1,0 +1,483 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.dunyakasifi"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:6:5-65
+12-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:6:22-62
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:7:5-77
+13-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:7:22-74
+14
+15    <uses-feature android:glEsVersion="0x00030000" />
+15-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:8:5-90
+15-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:8:19-51
+16    <uses-feature
+16-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:9:5-87
+17        android:name="android.hardware.camera.ar"
+17-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:9:19-60
+18        android:required="true" />
+18-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:9:61-84
+19    <uses-feature
+19-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:10:5-89
+20        android:name="android.hardware.microphone"
+20-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:10:19-61
+21        android:required="false" />
+21-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:10:62-86
+22    <uses-feature
+22-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-14:36
+23        android:name="android.hardware.vulkan.version"
+23-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-55
+24        android:required="false" />
+24-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-33
+25    <uses-feature
+25-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-17:36
+26        android:name="android.hardware.camera"
+26-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-47
+27        android:required="true" />
+27-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-33
+28    <uses-feature
+28-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-20:36
+29        android:name="android.hardware.camera.autofocus"
+29-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-57
+30        android:required="false" />
+30-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-33
+31    <uses-feature
+31-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-23:36
+32        android:name="android.hardware.camera.front"
+32-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-53
+33        android:required="false" />
+33-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-33
+34    <uses-feature
+34-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:5-26:36
+35        android:name="android.hardware.touchscreen"
+35-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-52
+36        android:required="false" />
+36-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-33
+37    <uses-feature
+37-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:5-29:36
+38        android:name="android.hardware.touchscreen.multitouch"
+38-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-63
+39        android:required="false" />
+39-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33
+40    <uses-feature
+40-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:5-32:36
+41        android:name="android.hardware.touchscreen.multitouch.distinct"
+41-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-72
+42        android:required="false" />
+42-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-33
+43
+44    <permission
+44-->[androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+45        android:name="com.example.dunyakasifi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+45-->[androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+46        android:protectionLevel="signature" />
+46-->[androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+47
+48    <uses-permission android:name="com.example.dunyakasifi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+48-->[androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+48-->[androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+49
+50    <queries>
+50-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:20:5-22:15
+51        <package android:name="com.google.ar.core" />
+51-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:21:9-54
+51-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:21:18-51
+52    </queries>
+53    <!--
+54        Required by Vuforia: Add this permission to access IMU sensors at high rate
+55        for device tracker functionality on Android 12+.
+56    -->
+57    <uses-permission android:name="android.permission.HIGH_SAMPLING_RATE_SENSORS" /> <!-- Required by Vuforia: Add this permission to allow checking of network. -->
+57-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:16:5-85
+57-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:16:22-82
+58    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+58-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:19:5-79
+58-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:19:22-76
+59
+60    <application
+60-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:12:5-90:19
+61        android:allowBackup="true"
+61-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:13:9-35
+62        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+62-->[androidx.core:core:1.10.1] C:\Users\ipekc\.gradle\caches\transforms-3\da8e8299dcdc1ec50d93124e40b4d108\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+63        android:dataExtractionRules="@xml/data_extraction_rules"
+63-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:14:9-65
+64        android:debuggable="true"
+65        android:enableOnBackInvokedCallback="true"
+65-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-51
+66        android:extractNativeLibs="true"
+66-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:9-41
+67        android:fullBackupContent="@xml/backup_rules"
+67-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:15:9-54
+68        android:icon="@drawable/icon"
+68-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:16:9-38
+69        android:label="@string/app_name"
+69-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:17:9-41
+70        android:supportsRtl="true"
+70-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:18:9-35
+71        android:theme="@style/Theme.DunyaKasifi" >
+71-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:19:9-49
+72        <activity
+72-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:23:9-31:20
+73            android:name="com.example.dunyakasifi.MainActivity"
+73-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:24:13-41
+74            android:exported="true"
+74-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:25:13-36
+75            android:theme="@style/Theme.DunyaKasifi" >
+75-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:26:13-53
+76            <intent-filter>
+76-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:27:13-30:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:28:17-69
+77-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:28:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:29:17-77
+79-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:29:27-74
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:33:9-38:51
+83            android:name="com.unity3d.player.UnityPlayerActivity"
+83-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:33:19-72
+84            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+84-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:37:13-194
+85            android:hardwareAccelerated="false"
+85-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:38:13-48
+86            android:launchMode="singleTask"
+86-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:36:13-44
+87            android:screenOrientation="fullSensor"
+87-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:35:13-51
+88            android:theme="@style/UnityTheme" />
+88-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:34:13-46
+89
+90        <meta-data
+90-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:40:9-73
+91            android:name="unity.splash-mode"
+91-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:40:20-52
+92            android:value="0" />
+92-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:40:53-70
+93        <meta-data
+93-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:41:9-108
+94            android:name="unity.splash-enable"
+94-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:41:20-54
+95            android:value="true" />
+95-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:41:55-75
+96        <meta-data
+96-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:42:9-112
+97            android:name="unity.launch-fullscreen"
+97-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:42:20-58
+98            android:value="true" />
+98-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:42:59-79
+99        <meta-data
+99-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:43:9-88
+100            android:name="unity.allow-resizable-window"
+100-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:43:20-63
+101            android:value="false" />
+101-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:43:64-85
+102
+103        <activity
+103-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:45:9-48:56
+104            android:name="com.example.dunyakasifi.CharacterCreationActivity"
+104-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:46:13-54
+105            android:exported="false"
+105-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:47:13-37
+106            android:theme="@style/Theme.DunyaKasifi" />
+106-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:48:13-53
+107        <activity
+107-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:50:9-53:56
+108            android:name="com.example.dunyakasifi.CountrySelectionActivity"
+108-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:51:13-53
+109            android:exported="false"
+109-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:52:13-37
+110            android:theme="@style/Theme.DunyaKasifi" />
+110-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:53:13-53
+111        <activity
+111-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:55:9-58:56
+112            android:name="com.example.dunyakasifi.CountryDetailActivity"
+112-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:56:13-50
+113            android:exported="false"
+113-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:57:13-37
+114            android:theme="@style/Theme.DunyaKasifi" />
+114-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:58:13-53
+115        <activity
+115-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:60:9-63:56
+116            android:name="com.example.dunyakasifi.GameActivity"
+116-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:61:13-41
+117            android:exported="false"
+117-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:62:13-37
+118            android:theme="@style/Theme.DunyaKasifi" />
+118-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:63:13-53
+119        <activity
+119-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:65:9-68:56
+120            android:name="com.example.dunyakasifi.PassportActivity"
+120-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:66:13-45
+121            android:exported="false"
+121-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:67:13-37
+122            android:theme="@style/Theme.DunyaKasifi" />
+122-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:68:13-53
+123        <activity
+123-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:70:9-73:56
+124            android:name="com.example.dunyakasifi.SettingsActivity"
+124-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:71:13-45
+125            android:exported="false"
+125-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:72:13-37
+126            android:theme="@style/Theme.DunyaKasifi" />
+126-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:73:13-53
+127        <activity
+127-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:75:9-78:56
+128            android:name="com.example.dunyakasifi.CountryVisitDetailActivity"
+128-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:76:13-55
+129            android:exported="false"
+129-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:77:13-37
+130            android:theme="@style/Theme.DunyaKasifi" />
+130-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:78:13-53
+131        <activity
+131-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:80:9-83:56
+132            android:name="com.example.dunyakasifi.FlagMatchActivity"
+132-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:81:13-46
+133            android:exported="false"
+133-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:82:13-37
+134            android:theme="@style/Theme.DunyaKasifi" />
+134-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:83:13-53
+135        <activity
+135-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:85:9-88:56
+136            android:name="com.example.dunyakasifi.MapQuizActivity"
+136-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:86:13-44
+137            android:exported="false"
+137-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:87:13-37
+138            android:theme="@style/Theme.DunyaKasifi" />
+138-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:88:13-53
+139
+140        <meta-data
+140-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:9-48:36
+141            android:name="unity.render-outside-safearea"
+141-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-57
+142            android:value="True" />
+142-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-33
+143        <meta-data
+143-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:9-51:50
+144            android:name="notch.config"
+144-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-40
+145            android:value="portrait|landscape" />
+145-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-47
+146        <meta-data
+146-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:9-54:36
+147            android:name="unity.auto-report-fully-drawn"
+147-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-57
+148            android:value="true" />
+148-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-33
+149        <meta-data
+149-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:9-57:36
+150            android:name="unity.auto-set-game-state"
+150-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:13-53
+151            android:value="true" />
+151-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-33
+152        <meta-data
+152-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:9-60:36
+153            android:name="unity.strip-engine-code"
+153-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:13-51
+154            android:value="true" />
+154-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:13-33
+155
+156        <activity
+156-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:9-93:20
+157            android:name="com.unity3d.player.UnityPlayerGameActivity"
+157-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:13-70
+158            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+158-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-194
+159            android:enabled="true"
+159-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:13-35
+160            android:exported="true"
+160-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:13-36
+161            android:hardwareAccelerated="false"
+161-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:13-48
+162            android:launchMode="singleTask"
+162-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:13-44
+163            android:resizeableActivity="true"
+163-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:69:13-46
+164            android:screenOrientation="fullUser"
+164-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:70:13-49
+165            android:theme="@style/BaseUnityGameActivityTheme" >
+165-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:71:13-62
+166            <intent-filter>
+166-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:27:13-30:29
+167                <category android:name="android.intent.category.LAUNCHER" />
+167-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:29:17-77
+167-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:29:27-74
+168
+169                <action android:name="android.intent.action.MAIN" />
+169-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:28:17-69
+169-->C:\Users\ipekc\Desktop\guncel-konular-proje\app\src\main\AndroidManifest.xml:28:25-66
+170            </intent-filter>
+171
+172            <meta-data
+172-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:78:13-80:40
+173                android:name="unityplayer.UnityActivity"
+173-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:79:17-57
+174                android:value="true" />
+174-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:80:17-37
+175            <meta-data
+175-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:81:13-83:41
+176                android:name="android.app.lib_name"
+176-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:82:17-52
+177                android:value="unity" />
+177-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:83:17-38
+178            <meta-data
+178-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:84:13-86:71
+179                android:name="WindowManagerPreference:FreeformWindowSize"
+179-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:85:17-74
+180                android:value="@string/FreeformWindowSize_maximize" />
+180-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:86:17-68
+181            <meta-data
+181-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:87:13-89:79
+182                android:name="WindowManagerPreference:FreeformWindowOrientation"
+182-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:88:17-81
+183                android:value="@string/FreeformWindowOrientation_landscape" />
+183-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:89:17-76
+184            <meta-data
+184-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:90:13-92:40
+185                android:name="notch_support"
+185-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:91:17-45
+186                android:value="true" />
+186-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:92:17-37
+187        </activity>
+188
+189        <meta-data
+189-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:95:9-97:40
+190            android:name="com.google.ar.core"
+190-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:96:13-46
+191            android:value="optional" />
+191-->[:unityLibrary] C:\Users\ipekc\Desktop\guncel-konular-proje\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:97:13-37
+192
+193        <provider
+193-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+194            android:name="androidx.startup.InitializationProvider"
+194-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+195            android:authorities="com.example.dunyakasifi.androidx-startup"
+195-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+196            android:exported="false" >
+196-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+197            <meta-data
+197-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+198                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+198-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+199                android:value="androidx.startup" />
+199-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ipekc\.gradle\caches\transforms-3\12bf843f49fcd2cc5f5a67aaad0839af\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+200            <meta-data
+200-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+201                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+201-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+202                android:value="androidx.startup" />
+202-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\ipekc\.gradle\caches\transforms-3\6a6f44cf1d4ba7b898b8091e38ed8311\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+203            <meta-data
+203-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+204                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+204-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+205                android:value="androidx.startup" />
+205-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+206        </provider>
+207
+208        <uses-library
+208-->[androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+209            android:name="androidx.window.extensions"
+209-->[androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+210            android:required="false" />
+210-->[androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+211        <uses-library
+211-->[androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+212            android:name="androidx.window.sidecar"
+212-->[androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+213            android:required="false" />
+213-->[androidx.window:window:1.0.0] C:\Users\ipekc\.gradle\caches\transforms-3\e098c8544ccfbe97cf4b6d058defe7e5\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+214
+215        <receiver
+215-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+216            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+216-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+217            android:directBootAware="false"
+217-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+218            android:enabled="true"
+218-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+219            android:exported="true"
+219-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+220            android:permission="android.permission.DUMP" >
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+221            <intent-filter>
+221-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+222                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+222-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+222-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+223            </intent-filter>
+224            <intent-filter>
+224-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+225                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+225-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+225-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+226            </intent-filter>
+227            <intent-filter>
+227-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+228                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+228-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+228-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+229            </intent-filter>
+230            <intent-filter>
+230-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+231                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+231-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+231-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ipekc\.gradle\caches\transforms-3\3eb9ba9bba899608ab07722967d56c84\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+232            </intent-filter>
+233        </receiver> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+234        <meta-data
+234-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:27:9-29:41
+235            android:name="com.google.ar.core.min_apk_version"
+235-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:28:13-62
+236            android:value="223110000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+236-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:29:13-38
+237        <activity
+237-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:31:9-37:80
+238            android:name="com.google.ar.core.InstallActivity"
+238-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:32:13-62
+239            android:configChanges="keyboardHidden|orientation|screenSize"
+239-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:33:13-74
+240            android:excludeFromRecents="true"
+240-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:34:13-46
+241            android:exported="false"
+241-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:35:13-37
+242            android:launchMode="singleTop"
+242-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:36:13-43
+243            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+243-->[com.google.ar:core:1.36.0] C:\Users\ipekc\.gradle\caches\transforms-3\bd55d2afde3359ad2aa1b5ef922c12d6\transformed\core-1.36.0\AndroidManifest.xml:37:13-77
+244
+245        <provider
+245-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:25:9-33:20
+246            android:name="com.vuforia.engine.app.VuforiaContentProvider"
+246-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:26:13-73
+247            android:authorities="com.example.dunyakasifi.vuforia.share"
+247-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:27:13-65
+248            android:exported="false"
+248-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:28:13-37
+249            android:grantUriPermissions="true" >
+249-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:29:13-47
+250            <meta-data
+250-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:30:13-32:53
+251                android:name="android.support.FILE_PROVIDER_PATHS"
+251-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:31:17-67
+252                android:resource="@xml/filepaths" />
+252-->[:VuforiaEngine:] C:\Users\ipekc\.gradle\caches\transforms-3\1766624d07588b7c82c930ebfac9570e\transformed\VuforiaEngine\AndroidManifest.xml:32:17-50
+253        </provider>
+254    </application>
+255
+256</manifest>
