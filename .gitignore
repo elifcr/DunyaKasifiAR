@@ -7,6 +7,13 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# Unity Library (büyük dosyalar)
+unityLibrary/
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Pp]rojectSettings/[Pp]hysics2DSettings.asset
+/[Ss]treamingAssets/aa.meta
+/[Ss]treamingAssets/aa/*
+
 # Visual Studio / Rider
 /[Ee]xported[Oo]bj/
 .vs/
