@@ -49,8 +49,7 @@ Proje ile ilgili teknik detaylara, mimariye ve kullanım senaryolarına aşağı
 ## 🌐 Web Sitesi
 Proje için hazırlanmış web sayfası üzerinden daha fazla bilgiye ulaşabilirsiniz:
 
-
-🔗 Proje Web Sitesini Ziyaret Et: **file:///E:/Projeler/DunyaKasifiAR/YMGK.html**
+**file:///E:/Projeler/DunyaKasifiAR/YMGK.html**
 
 
 
