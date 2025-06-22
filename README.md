@@ -132,7 +132,7 @@ Proje ile ilgili teknik detaylara, mimariye ve kullanım senaryolarına aşağı
 ## 🌐 Web Sitesi
 Proje için hazırlanmış web sayfası üzerinden daha fazla bilgiye ulaşabilirsiniz:
 
-**file:///E:/Projeler/DunyaKasifiAR/YMGK.html**
+**https://elifcr.github.io/DunyaKasifiAR/YMGK.html**
 
 ## Lisans
 
