@@ -1,7 +1,0 @@
-com.example.dunyakasifi.test.app-annotation-experimental-1.3.0-0 C:\Users\ipekc\.gradle\caches\transforms-3\cc3133bcc52a3d03bde07191f314e6a7\transformed\annotation-experimental-1.3.0\res
-com.example.dunyakasifi.test.app-core-1.5.0-1 C:\Users\ipekc\.gradle\caches\transforms-3\e027fcba82c783850eb82125aad3d486\transformed\core-1.5.0\res
-com.example.dunyakasifi.test.app-androidTest-2 C:\Users\ipekc\Desktop\guncel-konular-proje\app\build\generated\res\resValues\androidTest\debug
-com.example.dunyakasifi.test.app-androidTest-3 C:\Users\ipekc\Desktop\guncel-konular-proje\app\build\generated\res\rs\androidTest\debug
-com.example.dunyakasifi.test.app-mergeDebugAndroidTestResources-4 C:\Users\ipekc\Desktop\guncel-konular-proje\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.dunyakasifi.test.app-mergeDebugAndroidTestResources-5 C:\Users\ipekc\Desktop\guncel-konular-proje\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.dunyakasifi.test.app-merged_res-6 C:\Users\ipekc\Desktop\guncel-konular-proje\app\build\intermediates\merged_res\debugAndroidTest

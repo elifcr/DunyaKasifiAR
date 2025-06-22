@@ -1,3 +1,0 @@
-com.example.dunyakasifi.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

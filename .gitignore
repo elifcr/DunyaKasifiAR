@@ -1,0 +1,47 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider
+/[Ee]xported[Oo]bj/
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Gradle
+.gradle/
+build/
+/gradle/
+/gradlew
+/gradlew.bat
+local.properties
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+/captures/
+.cxx/
+
+# Other
+.DS_Store
+/gradle.zip
+!/gradle/wrapper/gradle-wrapper.jar
+
+# Log files
+*.log 
