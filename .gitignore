@@ -36,6 +36,7 @@ build/
 /gradlew
 /gradlew.bat
 local.properties
+gradle.zip
 
 # Android
 *.apk
@@ -44,6 +45,8 @@ local.properties
 *.dex
 /captures/
 .cxx/
+app/build/
+app/release/
 
 # Other
 .DS_Store
@@ -51,4 +54,9 @@ local.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # Log files
-*.log 
+*.log
+
+# Large files
+*.so
+*.dll
+*.dylib 
