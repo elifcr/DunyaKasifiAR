@@ -7,6 +7,13 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
+/[Mm]emoryCaptures/
+
+# Recordings can get excessive in size
+/[Rr]ecordings/
+
 # Unity Library (büyük dosyalar)
 unityLibrary/
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
@@ -29,6 +36,14 @@ unityLibrary/
 *.opendb
 *.VC.db
 
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
 # Gradle
 .gradle/
 build/
@@ -48,6 +63,13 @@ gradle.zip
 app/build/
 app/release/
 
+# Builds
+*.unitypackage
+*.app
+
+# Crashlytics generated file
+crashlytics-build.properties
+
 # Other
 .DS_Store
 /gradle.zip
@@ -59,4 +81,4 @@ app/release/
 # Large files
 *.so
 *.dll
-*.dylib 
+*.dylib

@@ -100,4 +100,4 @@ Proje hakkında sorularınız için issue açabilirsiniz.
 
 ---
 
-**Not**: Bu uygulama eğitim amaçlı geliştirilmiştir ve çocukların güvenliği ön planda tutulmuştur. 
+**Not**: Bu uygulama eğitim amaçlı geliştirilmiştir ve çocukların güvenliği ön planda tutulmuştur.
