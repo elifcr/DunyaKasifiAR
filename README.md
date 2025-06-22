@@ -132,9 +132,7 @@ Proje ile ilgili teknik detaylara, mimariye ve kullanım senaryolarına aşağı
 ## 🌐 Web Sitesi
 Proje için hazırlanmış web sayfası üzerinden daha fazla bilgiye ulaşabilirsiniz:
 
-**https://github.com/elifcr/DunyaKasifiAR/blob/main/YMGK.html**
-
-*Not: GitHub Pages etkinleştirildikten sonra bu link güncellenecektir.*
+**https://elifcr.github.io/DunyaKasifiAR/YMGK.html**
 
 ## Lisans
 
