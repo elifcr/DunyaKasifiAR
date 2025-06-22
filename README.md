@@ -47,3 +47,8 @@ Proje için hazırlanmış web sayfası üzerinden daha fazla bilgiye ulaşabili
 
 🔗 Proje Web Sitesini Ziyaret Et: file:///E:/Projeler/DunyaKasifiAR/YMGK.html
 
+## Proje Videosu:
+
+**https://youtube.com/shorts/JUimHfeTNbE?feature=share**
+
+
